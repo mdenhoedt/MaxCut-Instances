@@ -1,0 +1,2 @@
+# MaxCut-Instances
+MaxCut Instances
